@@ -2,7 +2,7 @@ const queryInput = document.getElementById('query');
 const submitButton = document.getElementById('submit');
 const responseDiv = document.getElementById('response');
 
-const WOLFRAM_API_KEY = 'your_wolfram_api_key';
+const WOLFRAM_API_KEY = '9QTEVR-EJHEGP8WAK';
 const GPT4_API_KEY = 'your_gpt4_api_key';
 
 submitButton.addEventListener('click', async () => {
